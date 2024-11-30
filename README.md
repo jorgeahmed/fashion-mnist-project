@@ -11,7 +11,7 @@ Este proyecto utiliza TensorFlow para entrenar un modelo en el dataset de Fashio
 ## Instalación
 
 1. Clona este repositorio:
-git clone https://github.com/SonicAhmed/fashion-mnist-project.git cd fashion-mnist-project
+git clone https://github.com/jorgeahmed/fashion-mnist-project.git cd fashion-mnist-project
 
 2. Instala las dependencias:
 
