@@ -11,7 +11,8 @@ Este proyecto utiliza TensorFlow para entrenar un modelo en el dataset de Fashio
 ## Instalación
 
 1. Clona este repositorio:
-git clone https://github.com/jorgeahmed/fashion-mnist-project.git cd fashion-mnist-project
+git clone 
+https://github.com/jorgeahmed/fashion-mnist-project.git cd fashion-mnist-project
 
 2. Instala las dependencias:
 
@@ -20,8 +21,8 @@ pip install -r requirements.txt
 ## Entrenamiento
 
 Ejecuta el script para entrenar el modelo:
-python fashion_mnist_classifier.py --epochs=10
 
+python fashion_mnist_classifier.py --epochs=10
 
 También puedes entrenar el modelo en Vertex AI subiendo el código al bucket de Google Cloud y configurando el entorno.
 
